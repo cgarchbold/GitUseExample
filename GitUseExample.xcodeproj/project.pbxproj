@@ -15,6 +15,7 @@
 		F3C4AB8B24EEF0F900B965F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3C4AB8924EEF0F900B965F7 /* LaunchScreen.storyboard */; };
 		F3C4AB9624EEF0F900B965F7 /* GitUseExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C4AB9524EEF0F900B965F7 /* GitUseExampleTests.swift */; };
 		F3C4ABA124EEF0F900B965F7 /* GitUseExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C4ABA024EEF0F900B965F7 /* GitUseExampleUITests.swift */; };
+		F3C4ABB124EEF2ED00B965F7 /* MapForItinerery.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C4ABB024EEF2ED00B965F7 /* MapForItinerery.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F3C4AB9C24EEF0F900B965F7 /* GitUseExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUseExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3C4ABA024EEF0F900B965F7 /* GitUseExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUseExampleUITests.swift; sourceTree = "<group>"; };
 		F3C4ABA224EEF0F900B965F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3C4ABB024EEF2ED00B965F7 /* MapForItinerery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerery.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		F3C4AB7D24EEF0F800B965F7 /* GitUseExample */ = {
 			isa = PBXGroup;
 			children = (
+				F3C4ABB024EEF2ED00B965F7 /* MapForItinerery.swift */,
 				F3C4AB7E24EEF0F800B965F7 /* AppDelegate.swift */,
 				F3C4AB8024EEF0F800B965F7 /* SceneDelegate.swift */,
 				F3C4AB8224EEF0F800B965F7 /* ViewController.swift */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3C4ABB124EEF2ED00B965F7 /* MapForItinerery.swift in Sources */,
 				F3C4AB8324EEF0F800B965F7 /* ViewController.swift in Sources */,
 				F3C4AB7F24EEF0F800B965F7 /* AppDelegate.swift in Sources */,
 				F3C4AB8124EEF0F800B965F7 /* SceneDelegate.swift in Sources */,
